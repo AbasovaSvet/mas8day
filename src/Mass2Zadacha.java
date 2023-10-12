@@ -18,8 +18,6 @@ public class Mass2Zadacha {
     public static double[] calculateMass(int number) {
         double[] mass = new double[number];
 
-
-
         return mass;
     }
 }
