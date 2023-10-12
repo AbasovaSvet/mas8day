@@ -7,7 +7,7 @@ public class Mass2Zadacha {
     }
 
     public static int createMass(){
-        System.out.println("Введите целое положительное число: ");
+        System.out.println("Введите число: ");
         Scanner scanner = new Scanner(System.in);
         int number = scanner.nextInt();
         if (number>0)
@@ -17,6 +17,8 @@ public class Mass2Zadacha {
     }
     public static double[] calculateMass(int number) {
         double[] mass = new double[number];
+
+
 
         return mass;
     }
